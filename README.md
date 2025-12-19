@@ -1,2 +1,4 @@
-# SourceCodePaymentGateway
-source code payment gateway with react, tailwind, node js, express js and api midtrans
+# Next JS Product Template
+
+-page template use to implement payment gateway (sandbox).
+-education purpose only.
